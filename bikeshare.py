@@ -161,7 +161,8 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-    
+
+# The function allows user to see 5 rows of the data at a time and shows more rows until the user chooses to stop    
 def print_raw_data(df):    
         rows = 0
         while True:
