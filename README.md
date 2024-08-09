@@ -4,10 +4,10 @@
 06/08/2024
 
 ### Project Title
-Replace the Project Title
+Exploring Bike Share Data In US
 
 ### Description
-Describe what your project is about and what it does
+In this project, you can use data provided by Motivate(opens in a new tab), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You can compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
 Include the files used
