@@ -14,6 +14,12 @@ In this project, you can use data provided by Motivate(opens in a new tab), a bi
 - new_york_city.csv
 - washington.csv
 
+### Requirements
+- Python 3.x
+- pandas
+- numpy
+- time
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
